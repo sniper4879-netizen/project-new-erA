@@ -1,0 +1,12 @@
+PROJECT NEW ERA
+
+Package ID: com.projectnewera
+Version: 1.0 (1)
+Min Android: 6.0 (API 23)
+Target/Compile SDK: 35
+Permissions: NONE
+Network: NONE
+UI: One solid blue screen with centered white text: PROJECT NEW ERA
+Launcher icon: Solid blue with no text
+
+Open this folder in Android Studio and run Build > Build APK(s).

@@ -1,0 +1,8 @@
+GET YOUR APK (no Android Studio needed)
+
+1. Create a free account at github.com and make a NEW repository (private is fine).
+2. Upload ALL files from this folder to it (including the hidden .github folder).
+3. Open the repository's "Actions" tab -> "Build APK" -> wait ~3-5 minutes for the green check.
+4. Open that run, scroll to "Artifacts", download "project-new-era-apk" (a zip containing app-debug.apk).
+5. Copy app-debug.apk to your phone and tap it to install
+   (allow "Install unknown apps" for your file manager/browser when asked).
